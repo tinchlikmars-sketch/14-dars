@@ -1,0 +1,8 @@
+.box{
+    width: 15000px;
+    height: 800px;
+    border: 3px pink;
+    display: flex;
+    justify-content: space-around;
+    background-color: pink;
+}
